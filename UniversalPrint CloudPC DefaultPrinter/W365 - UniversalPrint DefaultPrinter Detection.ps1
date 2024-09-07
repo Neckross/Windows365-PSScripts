@@ -1,5 +1,5 @@
 #===================================================================================================================#
-# Version     = 0.1
+# Version     = 0.2
 # Script Name = W365 - UniversalPrint DefaultPrinter Detection.ps1
 # Description = This is a detection script that checks if a Universal Printer share is set as default in a Cloud PC.
 # Notes       = Variable MUST be updated $printerName
