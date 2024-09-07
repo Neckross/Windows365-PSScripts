@@ -1,4 +1,4 @@
-﻿#===================================================================================================================#
+#===================================================================================================================#
 # Version     = 0.1
 # Script Name = W365 - UniversalPrint DefaultPrinter Remediation.ps1
 # Description = This is a remediation script that checks if Universal Printer share is set as default in a Cloud PC.
