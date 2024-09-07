@@ -4,7 +4,7 @@ This is a Proactive Remediation scripts solution to automatically set a Universa
 ## For reference
 Universal Print is a cloud native solution that allows you to publish organization printers to azure cloud.
 You can use Intune Setting Catalog policies to deploy the "printer share" and map automatically to the users windows profile.
-For Windows 365 Cloud PCs, this is a great advantage as users can roam sessions with connected cloud printers through many endpoints.
+For Windows 365 Cloud PCs, this is a great advantage as users can roam sessions with connected cloud printers through many terminals or endpoints.
 
 [Universal Print doc](https://learn.microsoft.com/en-us/universal-print/discover-universal-print)
 [Intune + Universal Print doc](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-printer-provisioning)
