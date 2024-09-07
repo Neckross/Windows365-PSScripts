@@ -1,4 +1,4 @@
-# Windows365 PowerShell Scripts (for Healthcare)
+# Windows365 Scripts (for Healthcare)
 
 This repo was created for Windows 365 scripts (e.g. detection, remediation) that are exclusively for Cloud PCs.
 This is an ongoing project projected to grow as needed for given healthcare scenarios to help customers/partners build more towards a seamless user experience in Windows 365.
