@@ -9,5 +9,5 @@ Scripts available for Universal Print automation for Cloud PCs.
 
 # For more Windows 365 Scripts
 
-If you want to learn more, we have large Microsoft repository, please click the link below:
+If you want to learn more, we have large Microsoft repository:
 [Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts/)
