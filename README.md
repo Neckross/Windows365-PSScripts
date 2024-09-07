@@ -7,6 +7,14 @@ This is an ongoing project projected to grow as needed for given healthcare scen
 
 Scripts available for Universal Print automation for Cloud PCs.
 
+# Windows 365 Healthcare Blogs
+
+[Windows 365 Cloud PC Healthcare Series](aka.ms/W365HealthcareBlog)
+[Windows 365 Cloud PC Architecture](aka.ms/W365Architecture)
+[Windows 365 Cloud PC Management](aka.ms/W365Management)
+[Windows 365 Healthcare Virtual Webinar](aka.ms/W365HealthcareVirtualWebinar)
+[How to Break Free from Traditional VDI with W365](aka.ms/W365break-freeVDI)
+
 # For more Windows 365 Scripts
 
 If you want to learn more, we have large Microsoft repository:
