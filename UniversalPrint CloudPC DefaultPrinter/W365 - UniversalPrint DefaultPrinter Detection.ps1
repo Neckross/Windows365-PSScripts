@@ -12,7 +12,7 @@ if ($env:COMPUTERNAME -notlike "CPC-*") {
 }
 
 # Define the target printer name
-$printerName = "Canon MG3600 series" <#MUST UPDATE with the Universal Printer Share Name#>
+$printerName = "Canon MG3600 series" <#MUST UPDATE with the Universal Print share name#>
 
 # Check if the printer is installed
 $printer = Get-CimInstance -Class Win32_Printer | Where-Object { $_.Name -eq $printerName }
