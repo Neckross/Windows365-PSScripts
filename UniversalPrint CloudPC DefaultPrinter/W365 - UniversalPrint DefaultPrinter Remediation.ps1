@@ -1,5 +1,5 @@
 #===================================================================================================================#
-# Version     = 0.2
+# Version     = 0.3
 # Script Name = W365 - UniversalPrint DefaultPrinter Remediation.ps1
 # Description = This is a remediation script that checks if Universal Printer share is set as default in a Cloud PC.
 # Notes       = Variable MUST be updated $printerName
@@ -12,7 +12,7 @@ if ($env:COMPUTERNAME -notlike "CPC-*") {
 }
 
 # Define the target printer name
-$printerName = "Canon MG3600 series" <#MUST UPDATE with the Universal Print share name#>
+$printerName = "Canon TS6400 series" <#MUST UPDATE with the Universal Print share name#>
 
 # Check if the printer is installed or set as default
 $printer = Get-CimInstance -Class Win32_Printer | Where-Object { $_.Name -eq $printerName }
