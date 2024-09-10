@@ -1,12 +1,18 @@
 #===================================================================================================================#
-# Version     = 0.4
+# Version     = 0.5
 # Script Name = W365 - UniversalPrint DefaultPrinter Remediation.ps1
 # Description = This is a remediation script that checks if Universal Printer share is set as default in a Cloud PC.
 # Notes       = Variable MUST be updated $printerName
 #===================================================================================================================#
 
 # Define the log file location
-$logFile = "C:\Temp\PrinterRemediationLog.txt"
+$logFolder = "C:\Temp"
+$logFile = "$logFolder\PrinterRemediationLog.txt"
+
+# Ensure the log folder exists
+if (-not (Test-Path -Path $logFolder)) {
+  New-Item -Path $logFolder -ItemType Directory | Out-Null
+}
 
 # Function to write log entries
 function Write-Log {
