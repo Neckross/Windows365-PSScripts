@@ -27,6 +27,7 @@ The script will check if the Universal Printer share is installed and configured
 For troubleshooting, there's a written log file stored under C:\Temp in the Cloud PC.
 
 > IMPORTANT: you MUST set "$printerName" value. Download/Update script and Upload to Intune Proactive Remediation scripts blade.
+
 > REMINDER: you MUST set script to run in user-context "Run this script using logged-on credentials", because Universal Printers are deployed via user-context.
 
 ### Remediation Script
@@ -34,4 +35,5 @@ The remediation script fuels from the detection script, and will attempt to set 
 For troubleshooting, there's a written log file stored under C:\Temp in the Cloud PC.
 
 > IMPORTANT: you MUST set "$printerName" value. Copy/Update script and Upload to Intune Proactive Remediation scripts blade.
+
 > REMINDER: you MUST set script to run in user-context "Run this script using logged-on credentials", because Universal Printers are deployed via user-context.
