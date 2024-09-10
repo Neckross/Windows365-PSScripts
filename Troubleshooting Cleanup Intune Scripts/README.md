@@ -4,11 +4,11 @@ This is a Proactive Remediation scripts solution to automatically cleanup log fi
 ## For reference
 When working with Intune Proactive Remediation scripts, you might find a need to troubleshoot erros or failed runs, for that matter is important to log files.
 If you've been following this project, you'll notice that every script has a written log stored under C:\Temp folder in a Cloud PC.
-Which in time those files can get bigger and potentially increase disk size in a Cloud PC if not properly maintenance.
+Which in time those files can get bigger and potentially increase disk size if not properly maintenance.
 
-* Intune Management Extension Logs:
+### Intune Management Extension Logs
 Optionally, you can rely on IME agent logs stored on a Intune managed device under "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs".
-[click here](https://learn.microsoft.com/en-us/mem/intune/apps/intune-management-extension#intune-management-extension-logs)
+[Click Here](https://learn.microsoft.com/en-us/mem/intune/apps/intune-management-extension#intune-management-extension-logs)
 
 ## Solution outcome
 The solution aims to automate a Log files cleanup in C:\Temp folder from interacting with Intune Proactive Remediation scripts.
