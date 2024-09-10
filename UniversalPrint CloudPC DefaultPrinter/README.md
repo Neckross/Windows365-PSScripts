@@ -7,13 +7,13 @@ You can use Intune Setting Catalog policies to deploy the "printer share" and ma
 For Windows 365 Cloud PCs, this is a great advantage as users can roam sessions with connected cloud printers through many terminals or endpoints.
 
 * Universal Print docs:
-[click here](https://learn.microsoft.com/en-us/universal-print/discover-universal-print)
+[Click Here](https://learn.microsoft.com/en-us/universal-print/discover-universal-print)
 
 * Intune + Universal Print docs:
-[click here](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-printer-provisioning)
+[Click Here](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-printer-provisioning)
 
 * Intune Proactive Remediation docs:
-[click here](https://learn.microsoft.com/en-us/mem/intune/fundamentals/remediations)
+[Click Here](https://learn.microsoft.com/en-us/mem/intune/fundamentals/remediations)
 
 ## Solution outcome
 Today Intune does not have native built-in policy to set a printer as default, that's what this solution aims to automate.
