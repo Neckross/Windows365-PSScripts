@@ -2,10 +2,7 @@
 
 This repo was created for Windows 365 scripts (e.g. detection, remediation) that are exclusively for Cloud PCs.
 This is an ongoing project projected to grow as needed for given healthcare scenarios to help customers/partners build more towards a seamless user experience in Windows 365.
-
-## Universal Print for Cloud PC
-
-Scripts available for Universal Print automation for Cloud PCs.
+> IMPORTANT: For troubleshooting, each script has a written log file stored under C:\Temp in the Cloud PC.
 
 ## Windows 365 Healthcare Blogs
 
