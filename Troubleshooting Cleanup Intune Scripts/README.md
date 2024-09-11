@@ -22,7 +22,11 @@ The script will check for log and text files stored under C:\Temp folder in a Cl
 
 > IMPORTANT: Download script and Upload to Intune Proactive Remediation scripts blade.
 
+> REMINDER: you MUST set script to run in user-context "Run this script using logged-on credentials". 
+
 ### Remediation Script
 The remediation script fuels from the detection script, and will attempt to cleanup files stored under C:\Temp folder in a Cloud PC.
 
 > IMPORTANT: Download script and Upload to Intune Proactive Remediation scripts blade.
+
+> REMINDER: you MUST set script to run in user-context "Run this script using logged-on credentials".
