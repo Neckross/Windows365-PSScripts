@@ -7,7 +7,7 @@
 
 #Ensure the computer is a Cloud PC
 if ($env:COMPUTERNAME -notlike "CPC-*") {
-  write-host "This is not a Cloud PC. No remdiation required."
+  write-host "This is not a Cloud PC. No remediation required."
   Exit 0
 }
 
