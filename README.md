@@ -23,6 +23,11 @@ Learn all about Windows 365 solution presents as an innovative disruptive techno
 * How to Break Free from Traditional VDI with Windows 365:
 [aka.ms/W365break-freeVDI](https://aka.ms/W365break-freeVDI)
 
+## For Azure Virtual Desktop Scripts (for Healthcare)
+
+If you're looking for Azure Virtual Desktop Scripts for Healthcare, we have another repo:
+[AVD-PSScripts](https://github.com/Neckross/AVD-PSScripts))
+
 ## For more Windows 365 Scripts
 
 If you want to learn more, we have large Microsoft repository:
