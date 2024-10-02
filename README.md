@@ -26,7 +26,7 @@ Learn all about Windows 365 solution presents as an innovative disruptive techno
 ## For Azure Virtual Desktop Scripts (for Healthcare)
 
 If you're looking for Azure Virtual Desktop Scripts for Healthcare, we have another repo:
-[AVD-PSScripts](https://github.com/Neckross/AVD-PSScripts))
+[AVD-PSScripts](https://github.com/Neckross/AVD-PSScripts)
 
 ## For more Windows 365 Scripts
 
